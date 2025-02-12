@@ -1,0 +1,33 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	TutorialSword: {
+		DisplayName: Broken Poop Sword
+		Tooltip: It's Stinky
+	}
+
+	PoopSword: {
+		DisplayName: Poop Sword
+		Tooltip: It's smelling worse
+	}
+
+	HardenedPoopSword: {
+		DisplayName: Hardened Poop Sword
+		Tooltip: It's 100% stinky now
+	}
+
+	BrokenPoopBow: {
+		DisplayName: Broken Poop Bow
+		Tooltip: Wow this Bow really stinks!
+	}
+
+	PoopBow: {
+		DisplayName: Poop Bow
+		Tooltip: Hey this bow slightly stinks!
+	}
+
+	HardenedPoopBow: {
+		DisplayName: Hardened Poop Bow
+		Tooltip: This bow smells fantastic!
+	}
+}
