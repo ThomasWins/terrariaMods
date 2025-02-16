@@ -1,3 +1,0 @@
-displayName = Poop Weapons!!
-author = Toomy
-version = 1.0
