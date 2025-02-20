@@ -1,5 +1,0 @@
-c:\Users\thewa\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\PoopSword\obj\Debug\net8.0\PoopSword.csproj.AssemblyReference.cache
-c:\Users\thewa\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\PoopSword\obj\Debug\net8.0\PoopSword.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\thewa\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\PoopSword\obj\Debug\net8.0\PoopSword.AssemblyInfoInputs.cache
-c:\Users\thewa\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\PoopSword\obj\Debug\net8.0\PoopSword.AssemblyInfo.cs
-c:\Users\thewa\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\PoopSword\obj\Debug\net8.0\PoopSword.csproj.CoreCompileInputs.cache

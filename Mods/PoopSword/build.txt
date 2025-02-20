@@ -1,3 +1,0 @@
-displayName = Poop Arsenal
-author = Toomy
-version = 3.0
