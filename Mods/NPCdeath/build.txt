@@ -1,3 +1,0 @@
-displayName = NPC Perma-Death
-author = Toomy
-version = 0.1
